@@ -20,7 +20,8 @@ A stunning, modern, and responsive portfolio website showcasing the diverse tale
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://your-username.github.io/Lamyea_Portfolio](https://your-username.github.io/Lamyea_Portfolio)
+Visit the live website: [https://your-portfolio-domain.pages.dev](https://your-portfolio-domain.pages.dev)
+*Replace with your actual Cloudflare Pages URL*
 
 ## 🛠️ Technologies Used
 
@@ -88,23 +89,41 @@ To replace the placeholder images:
 </div>
 ```
 
-## 🌐 GitHub Pages Deployment
+## 🌐 Cloudflare Pages Deployment
 
-### Quick Setup:
+### Your site is now live on Cloudflare! Here are the benefits:
 
-1. **Fork or Clone** this repository
-2. **Rename** the repository to `your-username.github.io` for user page, or keep any name for project page
-3. **Enable GitHub Pages**:
-   - Go to repository Settings
-   - Scroll to Pages section
-   - Select "Deploy from a branch"
-   - Choose "main" branch and "/" (root) folder
-   - Save settings
+✅ **Global CDN**: Fast loading worldwide
+✅ **Automatic HTTPS**: Secure by default  
+✅ **Custom Domain**: Easy to add your own domain
+✅ **Analytics**: Built-in web analytics
+✅ **Edge Functions**: Serverless functionality
+✅ **Automatic Deployments**: Updates when you push to Git
 
-### Custom Domain (Optional):
-1. Add a `CNAME` file with your domain name
-2. Configure DNS settings with your domain provider
-3. Update repository settings to use custom domain
+### Quick Setup Tips:
+
+1. **Custom Domain** (Optional):
+   - Go to Cloudflare Pages dashboard
+   - Click "Custom domains" 
+   - Add your domain (e.g., lamyea.com)
+   - Update DNS settings
+
+2. **Analytics**:
+   - Enable Web Analytics in Cloudflare dashboard
+   - Get insights on visitors and performance
+
+3. **Performance**:
+   - Your site automatically benefits from Cloudflare's global network
+   - Images and assets are cached worldwide
+
+### GitHub Pages vs Cloudflare Pages:
+
+While the original instructions mentioned GitHub Pages, Cloudflare Pages offers:
+- ⚡ Faster global performance
+- 🔧 More build options
+- 📊 Better analytics
+- 🌍 Edge functions support
+- 🔒 Advanced security features
 
 ## 📋 Setup Instructions
 
@@ -139,7 +158,7 @@ To replace the placeholder images:
 
 ## 📞 Contact Information
 
-- **Email**: lamyea.portfolio@gmail.com
+- **Email**: lamyeasiyam@gmail.com
 - **Phone**: +880 1XXX-XXXXXX
 - **Location**: Gaibandha, Bangladesh
 - **Education**: English Department, Gaibandha Government College
