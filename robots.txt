@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://your-username.github.io/Lamyea_Portfolio/sitemap.xml
+
+# Disallow crawling of these files
+Disallow: /script.js
+Disallow: /styles.css
